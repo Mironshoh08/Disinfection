@@ -1,0 +1,16 @@
+Global 
+subnav Done
+navbar Done
+hero Done
+section1 Done
+section2 Done
+section3 Done
+section4 Done
+section5 Done
+section6 Done
+section7 Done
+section8 ❌ yozilmadi
+section9 ❌ yozilmadi
+section10 Done
+section11 Done
+footer Done

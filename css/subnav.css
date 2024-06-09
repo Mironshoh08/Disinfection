@@ -1,0 +1,21 @@
+.subnav {
+  height: 70px;
+  align-items: center;
+  display: flex;
+}
+
+.subnav_container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.subnav_link {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--subnav_plt-txt);
+}
+.subnav_div1 {
+  display: flex;
+  align-items: center;
+  column-gap: 22px;
+}

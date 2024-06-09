@@ -1,0 +1,30 @@
+.footer_div {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.footer_div1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.footer_photo {
+  width: 50px;
+  height: 50px;
+}
+.footer_link {
+  font-size: 20px;
+  font-weight: 500;
+  color: var(--section1_text);
+}
+.footer_text1 {
+  color: var(--section1_text);
+  font-weight: 500;
+  font-size: 20px;
+}
+.footer_div2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  column-gap: 50px;
+}

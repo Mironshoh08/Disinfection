@@ -1,0 +1,12 @@
+/* section6 animation start */
+.section6_image, .section6_image1,
+.section6_image2,
+.section6_image3 {
+  width: 300px;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  transition: 0.4s !important;
+}
+
+/* section6 animation end *//*# sourceMappingURL=main.css.map */
