@@ -22,3 +22,9 @@ function scrollToTop() {
 }
 scrollToTopBtn.addEventListener("click", scrollToTop);
 document.addEventListener("scroll", handleScroll);
+
+
+
+import { inject } from '@vercel/analytics';
+ 
+inject();
