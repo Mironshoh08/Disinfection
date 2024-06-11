@@ -25,7 +25,7 @@ body {
   --section1_text: "#e9e9e9";
   --image1: url("../Images/Change_color/Image1.png");
   --image2: url("../Images/Change_color/Image2.png");
-  --image3: url("../Images/Change_color/Image3.png");
+  --image3: url("../Images/Change_color/image3.png");
   --image4: url("../Images/Change_color/Image4.png");
 }
 :root[data-bs-theme="light"] {
