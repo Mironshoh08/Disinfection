@@ -30,7 +30,7 @@ body {
 }
 :root[data-bs-theme="light"] {
   --border1: #0000000b !important;
-  --backdrop: "background: rgb(0 0 0 / 5%);" !important;
+  --backdrop: rgb(0 0 0 / 5%); !important;
   --subnav_plt-txt: #292929;
   --section1_text: #292929;
 }
